@@ -5,9 +5,12 @@
 
 Este é o meu primeiro projeto web, criado durante a Imersão Alura e Google. A ideia é simples: te ajudar a encontrar a vela aromática perfeita para qualquer ocasião! 
 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/19e41b8a-b68d-4d4d-83cf-b732c49f5df1">
+
+
 **Como funciona?**
 
-1. **Digite a essência:** Na barra de pesquisa, digite a essência que você procura (ex: lavanda, canela, floral).
+1. **Digite a essência:** Na barra de pesquisa, digite a essência ou sensação que você procura (ex: lavanda, canela, sono, alegria).
 2. **Encontre sua vela:** A mágica acontece! A aplicação vai te mostrar todas as velas que combinam com a essência que você digitou.
 
 **Tecnologias utilizadas:**
@@ -28,16 +31,10 @@ Este é o meu primeiro projeto web, criado durante a Imersão Alura e Google. A 
 * **Amantes de velas:** Se você adora velas aromáticas, essa aplicação pode te ajudar a encontrar novas opções e descobrir novas essências.
 * **Quem quer entender como funciona uma busca simples:** O código é bem comentado e fácil de entender, então você pode aprender como funciona a lógica por trás da pesquisa.
 
-**Contribuições:**
-
-Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma ideia para melhorar a aplicação, pode criar um "pull request" e me ajudar a torná-la ainda melhor.
-
 **Disclaimer:** Este é um projeto simples e feito com muito carinho por um iniciante em programação. 
 
-**Observações:**
 
-* **Personalize:** Adapte este README.md para que ele reflita a sua personalidade e o seu projeto.
-* **Imagens:** Adicione imagens do seu projeto para torná-lo mais visualmente atraente.
-* **Detalhes técnicos:** Se você quiser, pode adicionar mais detalhes técnicos sobre o projeto, como a estrutura de dados utilizada para armazenar as informações das velas.
+
+
 
 **Espero que este README.md te ajude a entender melhor o meu projeto!**
