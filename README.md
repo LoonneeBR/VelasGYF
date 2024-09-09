@@ -10,7 +10,7 @@ Este é o meu primeiro projeto web, criado durante a Imersão Alura e Google. A 
 
 **Como funciona?**
 
-1. **Digite a essência:** Na barra de pesquisa, digite a essência ou sensação que você procura (ex: lavanda, canela, sono, alegria).
+1. **Digite a essência:** Na barra de pesquisa, digite a essência ou sensação que você procura (ex: lavanda, canela, dormir, alegria).
 2. **Encontre sua vela:** A mágica acontece! A aplicação vai te mostrar todas as velas que combinam com a essência que você digitou.
 
 **Tecnologias utilizadas:**
